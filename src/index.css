@@ -46,31 +46,31 @@ body {
 }
 
 .selected {
-  border: 2px solid black;
+  border: 2px solid gray;
 }
 
 /* colors */
-.red {
+.redRanger{
   background-color: #cf000f;
 }
-.orange {
+.orangeRanger {
   background-color: #eb6b56;
 }
-.yellow {
+.yellowRanger {
   background-color: #ffc153;
 }
-.green {
+.greenRanger {
   background-color: #27ae60;
 }
-.blue {
+.blueRanger {
   background-color: #1d4fda;
 }
-.violet {
+.violetRanger {
   background-color: #462446;
 }
-.black {
+.blackRanger {
   background-color: #000000;
 }
-.white {
+.whiteRanger {
   background-color: #ffffff;
 }
